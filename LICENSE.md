@@ -1,4 +1,4 @@
-#  
+#  Notion for macOS updated Extension: calendar integration & task automation offers the most advanced Notion for macOS extension, with calendar integration and task automation.
 
 
 
